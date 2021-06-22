@@ -145,14 +145,20 @@
                     "list": true,
                     "settings": {
                         "condensedTableLayout": true,
-                        "showGoButtonOnFilterBar": true,
+                        "showGoButtonOnFilterBar": false,
                         "tableType": "AnalyticalTable",
                         "qualifier": "",
                         "autoHide": true,
-                        "smartVariantManagement": false,
+                        "smartVariantManagement": true,
                         "keyPerformanceIndicators": {},
                         "tableSettings": {
                             "multiSelect": false
+                        },
+                        "dataLoadSettings": {
+                            "loadDataOnAppLaunch": "always"
+                        },
+                        "chartSettings": {
+                            "showDataLabel": true
                         }
                     }
                 },

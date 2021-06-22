@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1624373003082_409_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "sap.fe.demo.bookinganalysis",
+    "packageName": "",
+    "content": {
+        "property": "showChartTypeSelectionButton",
+        "newValue": true
+    },
+    "selector": {
+        "id": "sap.fe.demo.bookinganalysis::sap.suite.ui.generic.template.AnalyticalListPage.view.AnalyticalListPage::Booking--chart",
+        "idIsLocal": false,
+        "type": "sap.ui.comp.smartchart.SmartChart"
+    },
+    "layer": "VENDOR",
+    "texts": {},
+    "namespace": "apps/sap.fe.demo.bookinganalysis/changes/",
+    "projectId": "sap.fe.demo.bookinganalysis",
+    "creation": 1624373003082,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": "latest",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "1.0.0",
+        "to": "1.0.0",
+        "creation": "1.0.0"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}
