@@ -44,6 +44,21 @@
         "sourceTemplate": {
             "id": "ui5template.smartTemplate",
             "version": "1.40.12"
+        },
+        "crossNavigation": {
+            "inbounds": {
+                "sap-fe-demo-bookinganalysis-inbound": {
+                    "signature": {
+                        "parameters": {},
+                        "additionalParameters": "allowed"
+                    },
+                    "semanticObject": "Booking",
+                    "action": "analysis",
+                    "title": "Booking Analysis",
+                    "subTitle": "",
+                    "icon": ""
+                }
+            }
         }
     },
     "sap.ui": {
