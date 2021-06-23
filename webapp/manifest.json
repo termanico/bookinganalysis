@@ -183,5 +183,9 @@
     },
     "sap.platform.hcp": {
         "uri": ""
+    },
+    "sap.cloud": {
+        "public": true,
+        "service": "sap-fe-demo-bookinganalysis"
     }
 }
